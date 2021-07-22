@@ -1,1 +1,15 @@
 
+.earth {
+    display: flex;
+}
+
+.earth div {
+    background-color: green;
+    margin: 2px;
+    color: white;
+    padding: 16px;
+}
+
+.as:focus {
+    background-color: black;
+}
